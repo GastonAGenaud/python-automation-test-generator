@@ -1,0 +1,18 @@
+{
+  "name": "test-automation-generator",
+  "version": "1.0.0",
+  "description": "CLI tool to generate test automation project templates",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["test-automation", "template-generator", "cli"],
+  "author": "Gaston Genaud",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "chalk": "^4.1.2",
+    "shelljs": "^0.8.5"
+  }
+}
+
